@@ -1,0 +1,10 @@
+pre-commit
+pandas>=0.22
+numpy
+fuzzywuzzy
+dnaplotlib
+tellurium
+simplesbml
+biopython
+reportlab
+nbgitpuller
